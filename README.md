@@ -16,7 +16,6 @@ Para facilitar a codificação do projeto foi usado um protótipo do figma como 
 
 [<img src="https://img.shields.io/static/v1?label=&message=React&color=0d1117&style=for-the-badge&logo=React"/>](https://pt-br.reactjs.org/)
 [<img src="https://img.shields.io/static/v1?label=&message=Vite&color=0d1117&style=for-the-badge&logo=Vite"/>](https://vitejs.dev/)
-[<img src="https://img.shields.io/static/v1?label=&message=Ract Router&color=0d1117&style=for-the-badge&logo=React Router"/>](https://reactrouter.com/en/main)
 [<img src="https://img.shields.io/static/v1?label=&message=Tailwind&color=0d1117&style=for-the-badge&logo=Tailwind CSS"/>](https://tailwindcss.com/)
 
 ## 📝 Requisitos do desafio
