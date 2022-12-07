@@ -6,8 +6,6 @@ export const App = () => {
       <div>
          <Navbar />
          <main>
-            <section className="h-[90vh] bg-wow">
-            </section>
          </main>
       </div>
    )

@@ -1,5 +1,4 @@
-//TO-DO =================================================================
-// Update link logo to deployment link
+
 
 import { useState } from 'react'
 import { CaretDown, CaretUp, List, User, X } from 'phosphor-react'
@@ -18,7 +17,7 @@ export const Navbar = () => {
          <div className="relative z-40 border-b-2 border-b-white-t-10">
             <div className="p-6 flex justify-between items-center after:w-11 after:bg-brand-primary after:h-[2px] after:absolute after:-bottom-[2px] container m-auto">
                <div className="flex gap-32 items-center">
-                  <a href="#">
+                  <a href="https://blizzard-br-challenges.vercel.app/">
                      <img src={logoBlizzard} alt="Blizzard Logo" className="h-8" />
                   </a>
                   <DesktopMenu />
