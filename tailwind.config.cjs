@@ -11,7 +11,7 @@ module.exports = {
       extend: {
          backgroundImage: {
             'loading': "url('./src/assets/footer-background.png')",
-            'wow': "url('./src/assets//banner-hero/games/wow-bg.png')",
+            'wow': "url('./src/assets/banner-hero/games/wow-bg.png')",
          },
          colors: {
             "white-t-10": "#ffffff10",

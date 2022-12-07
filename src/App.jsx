@@ -1,6 +1,4 @@
-import { useContext } from "react"
 import { Navbar } from "./components/Navbar"
-import { gamesContext } from './context/gamesContext'
 
 export const App = () => {
 

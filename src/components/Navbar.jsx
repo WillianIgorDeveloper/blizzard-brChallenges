@@ -1,14 +1,12 @@
 //TO-DO =================================================================
 // Update link logo to deployment link
 
-import { useRef, useState } from 'react'
+import { useState } from 'react'
 import { CaretDown, CaretUp, List, User, X } from 'phosphor-react'
-import ScrollReveal from 'scrollreveal'
 
 import logoBlizzard from '../assets/logo-blizzard.png'
 import { menuItems } from '../../menuItems'
 import { Button } from './Button'
-import { useEffect } from 'react'
 
 
 export const Navbar = () => {
